@@ -1,3 +1,5 @@
+'''Concatenate a list of names into a single string separated by spaces.
+'''
 l=list()
 n=int(input("Enter the number of elements:- "))
 i=0
